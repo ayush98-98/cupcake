@@ -1,0 +1,572 @@
+@media only screen and (max-width:1245px) and (min-width:849px) {
+     .container {
+          width: auto;
+          margin: 0 auto;
+     }
+
+     .left {
+          margin-left: 65px;
+          width: 13%;
+     }
+
+     .p {
+          margin: 25px;
+          font-size: 48px;
+     }
+
+     .part2 {
+          gap: 32px;
+          padding: 0px 25px;
+     }
+
+     .item1_ {
+          margin-top: 10px;
+     }
+
+     .img1 img {
+          width: 153px;
+          height: 160px;
+     }
+
+     .l_details p {
+          margin: 8px;
+     }
+
+     .r_details p {
+          margin: 8px;
+     }
+
+
+}
+
+@media only screen and (max-width:849px) and (min-width:710px) {
+     .container {
+          width: auto;
+          margin: 0 auto;
+     }
+
+     .left {
+          width: 25%;
+          margin-left: 40px;
+     }
+
+     .p {
+          margin: 25px;
+          font-size: 35px;
+     }
+
+     .part2 {
+          justify-content: space-evenly;
+          gap: 20px;
+     }
+
+
+     .iteam1 {
+          width: 40%;
+          margin-top: 20px;
+     }
+
+     .img1 img {
+          width: 262px;
+          height: 242px;
+     }
+
+     .w {
+          padding: 33px;
+     }
+
+     .l_details p {
+          margin: 8px;
+     }
+
+     .r_details p {
+          margin: 8px;
+     }
+
+     .w p {
+          margin: 11px;
+     }
+}
+
+@media only screen and (max-width:710px) and (min-width:660px) {
+     .container {
+          width: auto;
+          margin: 0 auto;
+     }
+
+     .left {
+          width: 25%;
+          margin-left: 40px;
+     }
+
+     .p {
+          margin: 25px;
+          font-size: 35px;
+     }
+
+     .part2 {
+          justify-content: space-evenly;
+          gap: 20px;
+     }
+
+
+     .iteam1 {
+          width: 40%;
+          margin-top: 20px;
+     }
+
+     .img1 img {
+          width: 237px;
+          height: 235px;
+     }
+
+     .w {
+          padding: 33px;
+     }
+
+     .w p {
+          margin: 11px;
+     }
+
+     .l_details input {
+          width: 220px;
+     }
+
+     .r_details input {
+          width: 220px;
+     }
+
+     .l_details p {
+          margin: 8px;
+     }
+
+     .r_details p {
+          margin: 8px;
+     }
+
+
+     .r_details {
+          margin: 0px 0px;
+          padding: 0px 6px;
+     }
+
+     .submit button {
+          width: 530px;
+     }
+
+     .days {
+
+          padding: 0px 25px;
+     }
+
+     .information h3 {
+          font-size: 21px;
+     }
+
+     .hours h3 {
+          font-size: 21px;
+     }
+
+     .call_us h3 {
+          font-size: 21px;
+     }
+}
+
+@media only screen and (max-width:660px) and (min-width:470px) {
+     
+     .container {
+          width: auto;
+          margin: 0 auto;
+     }
+
+     .left {
+          width: 25%;
+          margin-left: 55px;
+     }
+
+     .right {
+          display: none;
+     }
+
+     .burger {
+          display: block;
+     }
+
+     .our {
+          height: 725px;
+          margin: 30px;
+     }
+
+     .p {
+          margin: 25px;
+          font-size: 30px;
+     }
+
+     .p1 {
+          width: 75%;
+          font-size: 22px;
+     }
+
+     .part2 {
+          flex-direction: column;
+          align-items: center;
+     }
+
+     .part1 h3 {
+          font-size: 32px;
+     }
+
+     .part3 h3 {
+          font-size: 32px;
+     }
+
+
+     .iteam1 {
+          width: 70%;
+     }
+
+     .img1 img {
+          width: 301px;
+          height: 256px;
+          margin-top: 33px;
+     }
+
+     .w {
+          padding: 33px;
+     }
+
+     .w p {
+          margin: 11px;
+     }
+
+     .details {
+          flex-wrap: wrap;
+     }
+
+     .l_details input {
+          width: 220px;
+     }
+
+     .r_details input {
+          width: 220px;
+     }
+
+     .l_details p {
+          margin: 8px;
+     }
+
+     .l_details {
+          margin: 0px 0px;
+
+     }
+
+     .r_details p {
+          margin: 8px;
+     }
+
+
+     .r_details {
+          margin: 0px 0px;
+          padding: 0px 6px;
+     }
+
+     .submit button {
+          width: 262px;
+     }
+
+     .days {
+
+          padding: 0px 0px;
+          justify-content: center;
+     }
+
+
+     .information {
+          flex-wrap: wrap;
+          flex-direction: column;
+     }
+
+     .information p {
+          max-width: 100%;
+          margin: auto;
+     }
+
+     .information h3 {
+          font-size: 21px;
+     }
+
+     .hours h3 {
+          font-size: 21px;
+     }
+
+     .call_us h3 {
+          font-size: 21px;
+     }
+}
+
+@media only screen and (max-width:470px) and (min-width:415px) {
+
+     .container {
+          width: auto;
+          margin: 0 auto;
+     }
+
+     .bg_img{
+          height: 96vh;
+     }
+
+     .left {
+          width: 25%;
+          margin-left: 55px;
+     }
+
+     .right {
+          display: none;
+     }
+
+     .burger {
+          display: block;
+     }
+
+     .our {
+          height: 790px;
+          margin: 30px;
+     }
+
+     .p {
+          margin: 25px;
+          font-size: 32px;
+     }
+
+     .p1 {
+          width: 75%;
+     }
+
+     .part2 {
+          flex-direction: column;
+          align-items: center;
+     }
+
+     .part1 h3 {
+          font-size: 32px;
+     }
+
+     .part3 h3 {
+          font-size: 32px;
+     }
+
+
+     .iteam1 {
+          width: 70%;
+     }
+
+     .img1 img {
+          width: 260px;
+          height: 245px;
+          margin-top: 20px;
+     }
+
+     .w {
+          padding: 33px;
+     }
+
+     .w p {
+          margin: 11px;
+     }
+
+     .details {
+          flex-wrap: wrap;
+     }
+
+     .l_details p {
+          margin: 8px;
+     }
+
+     .r_details p {
+          margin: 8px;
+     }
+
+     .l_details input {
+          width: 220px;
+     }
+
+     .r_details input {
+          width: 220px;
+     }
+
+     .l_details {
+          margin: 22px 0px;
+
+     }
+
+     .submit button {
+          width: 262px;
+     }
+
+     .days {
+          padding: 0px 10px;
+
+     }
+
+     .information {
+          flex-wrap: wrap;
+     }
+
+     .information h3 {
+          font-size: 21px;
+     }
+
+     .hours {
+          margin: 22px;
+     }
+
+     .hours h3 {
+          font-size: 21px;
+     }
+
+     .call_us h3 {
+          font-size: 21px;
+     }
+
+     .down_footer {
+          font-size: 13px;
+     }
+}
+
+@media only screen and (max-width:415px) {
+   
+     .container {
+          width: auto;
+          margin: 0 auto;
+     }
+     
+     .bg_img{
+          height: 96vh;
+     }
+     .left {
+          width: 25%;
+          margin-left: 55px;
+     }
+
+     .right {
+          display: none;
+     }
+
+     .burger {
+          display: block;
+     }
+
+     .our {
+          height: 790px;
+          margin: 30px;
+     }
+
+     .p {
+          margin: 25px;
+          font-size: 32px;
+     }
+
+     .p1 {
+          width: 75%;
+     }
+
+     .part2 {
+          flex-direction: column;
+          align-items: center;
+     }
+
+     .part1 h3 {
+          font-size: 29px;
+          margin: 35px;
+     }
+
+     .part3 h3 {
+          font-size: 29px;
+          margin: 35px;
+     }
+
+     .iteam1 {
+          width: 70%;
+     }
+
+     .img1 img {
+          width: 220px;
+          height: 225px;
+          margin-top: 20px;
+     }
+
+     .w {
+          padding: 25px;
+     }
+
+     .w p {
+          margin-top: 13px;
+     }
+
+     .details {
+          flex-wrap: wrap;
+     }
+
+     .l_details input {
+          width: 220px;
+     }
+
+     .l_details p {
+          margin: 8px;
+     }
+
+     .r_details p {
+          margin: 8px;
+     }
+
+     .r_details input {
+          width: 220px;
+     }
+
+
+     .r_details {
+          margin: 0px 0px;
+          padding: 0px 6px;
+     }
+
+     .l_details {
+          margin: 22px 0px;
+          padding: 0px 6px;
+     }
+
+     .submit button {
+          width: 245px;
+     }
+
+     .days {
+
+          /* padding: 0px 25px; */
+     }
+
+     .information {
+          flex-wrap: wrap;
+          width: 84%;
+          margin: auto;
+          margin-top: 70px;
+     }
+
+     .information h3 {
+          font-size: 21px;
+     }
+
+     .hours {
+          margin: 31px;
+     }
+
+     .hours h3 {
+          font-size: 21px;
+     }
+
+     .call_us h3 {
+          font-size: 21px;
+     }
+
+     .down_footer {
+          font-size: 12px;
+     }
+}
